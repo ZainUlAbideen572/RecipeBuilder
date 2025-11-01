@@ -2,7 +2,7 @@
 
 A modern, intuitive recipe management application that helps you organize your recipes and guide you through cooking with step-by-step instructions and built-in timers.
 
-## ✨ Features
+## Features
 
 ### Recipe Management
 - **Browse Recipes**: View your entire recipe collection with beautiful cards displaying key information
@@ -46,7 +46,7 @@ A modern, intuitive recipe management application that helps you organize your r
 
 1. Clone the repository:
 ```bash
-git clone <YOUR_GIT_URL>
+git clone https://github.com/ZainUlAbideen572/RecipeBuilder.git
 cd <YOUR_PROJECT_NAME>
 ```
 
@@ -60,6 +60,6 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and navigate to the local development URL (typically `http://localhost:5173`)
+4. Open your browser and navigate to the local development URL (typically `http://localhost:8000`)
 
 
